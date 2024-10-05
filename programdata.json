@@ -1,0 +1,77 @@
+[
+  {
+    "function": "CANCEL_RLO"
+  },
+  {
+    "function": "pre_ASSIGN"
+  },
+  {
+    "function": "pre_AND"
+  },
+  {
+    "function": "AND",
+    "memory": "%m3.0",
+    "node": 1728154418465,
+    "toNode": 1728154389681
+  },
+  {
+    "function": "post_AND"
+  },
+  {
+    "function": "pre_AND"
+  },
+  {
+    "function": "pre_OR"
+  },
+  {
+    "function": "OR",
+    "memory": "%m4.0",
+    "node": 1728154437520,
+    "toNode": 1728154396240
+  },
+  {
+    "function": "post_OR"
+  },
+  {
+    "function": "pre_OR"
+  },
+  {
+    "function": "OR",
+    "memory": "%m3.0",
+    "node": 1728154448153,
+    "toNode": 1728154396240
+  },
+  {
+    "function": "post_OR"
+  },
+  {
+    "function": "pre_OR"
+  },
+  {
+    "function": "OR",
+    "memory": "%m3.0",
+    "node": 1728154454760,
+    "toNode": 1728154396240
+  },
+  {
+    "function": "post_OR"
+  },
+  {
+    "function": "post_AND"
+  },
+  {
+    "function": "pre_AND"
+  },
+  {
+    "function": "AND",
+    "memory": "%m4.0",
+    "node": 1728154462461,
+    "toNode": 1728154389681
+  },
+  {
+    "function": "post_AND"
+  },
+  {
+    "function": "post_ASSIGN"
+  }
+]
