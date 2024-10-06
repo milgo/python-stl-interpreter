@@ -3,75 +3,74 @@
     "function": "CANCEL_RLO"
   },
   {
-    "function": "pre_ASSIGN"
+    "function": "pre_ASSIGN",
+    "target": 1728154409372
   },
   {
-    "function": "pre_AND"
+    "function": "pre_AND",
+    "target": 1728154389681
+  },
+  {
+    "function": "pre_ASSIGN",
+    "target": 1728228799527
+  },
+  {
+    "function": "ASSIGN",
+    "memory": "%m1.0",
+    "node": 1728228802254,
+    "target": 1728228799527
+  },
+  {
+    "function": "post_ASSIGN",
+    "memory": "%m4.0",
+    "target": 1728228799527
+  },
+  {
+    "function": "pre_AND",
+    "target": 1728194956595
+  },
+  {
+    "function": "AND",
+    "memory": "%m2.0",
+    "node": 1728194958902,
+    "target": 1728194956595
+  },
+  {
+    "function": "post_AND",
+    "target": 1728194956595
   },
   {
     "function": "AND",
     "memory": "%m3.0",
-    "node": 1728154418465,
-    "toNode": 1728154389681
-  },
-  {
-    "function": "post_AND"
-  },
-  {
-    "function": "pre_AND"
-  },
-  {
-    "function": "pre_OR"
-  },
-  {
-    "function": "OR",
-    "memory": "%m4.0",
-    "node": 1728154437520,
-    "toNode": 1728154396240
-  },
-  {
-    "function": "post_OR"
-  },
-  {
-    "function": "pre_OR"
-  },
-  {
-    "function": "OR",
-    "memory": "%m3.0",
-    "node": 1728154448153,
-    "toNode": 1728154396240
-  },
-  {
-    "function": "post_OR"
-  },
-  {
-    "function": "pre_OR"
-  },
-  {
-    "function": "OR",
-    "memory": "%m3.0",
-    "node": 1728154454760,
-    "toNode": 1728154396240
-  },
-  {
-    "function": "post_OR"
-  },
-  {
-    "function": "post_AND"
-  },
-  {
-    "function": "pre_AND"
-  },
-  {
-    "function": "AND",
-    "memory": "%m4.0",
     "node": 1728154462461,
-    "toNode": 1728154389681
+    "target": 1728154389681
   },
   {
-    "function": "post_AND"
+    "function": "pre_OR",
+    "target": 1728226979716
   },
   {
-    "function": "post_ASSIGN"
+    "function": "OR",
+    "memory": "%m1.0",
+    "node": 1728226987491,
+    "target": 1728226979716
+  },
+  {
+    "function": "OR",
+    "memory": "%m2.0",
+    "node": 1728226995900,
+    "target": 1728226979716
+  },
+  {
+    "function": "post_OR",
+    "target": 1728226979716
+  },
+  {
+    "function": "post_AND",
+    "target": 1728154389681
+  },
+  {
+    "function": "post_ASSIGN",
+    "target": 1728154409372
   }
 ]
